@@ -9,3 +9,7 @@ output "test_output" {
 output "test_output2" {
   value = "Hello Terraform HCP Git for auto apply 2"
 }
+
+output "test_output3" {
+  value = "Hello Terraform HCP Git for auto apply 3"
+}
