@@ -5,3 +5,7 @@ provider "aws" {
 output "test_output" {
   value = "Hello Terraform HCP Git for auto apply"
 }
+
+output "test_output2" {
+  value = "Hello Terraform HCP Git for auto apply 2"
+}
