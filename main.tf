@@ -3,5 +3,5 @@ provider "aws" {
 }
 
 output "test_output" {
-  value = "Hello Terraform HCP Git."
+  value = "Hello Terraform HCP Git 123."
 }
